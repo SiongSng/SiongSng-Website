@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://SiongSng.github.io/SiongSng-Website/sitemap.xml
