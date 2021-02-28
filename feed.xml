@@ -3,10 +3,31 @@
     <title>SiongSng&#x27;s Website</title>
     <link href="https://SiongSng.github.io/SiongSng-Website/feed.xml" rel="self" />
     <link href="https://SiongSng.github.io/SiongSng-Website" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2021-02-28T22:41:54+08:00</updated>
     <author>
         <name>SiongSng</name>
     </author>
     <id>https://SiongSng.github.io/SiongSng-Website</id>
 
+    <entry>
+        <title>網站的第一篇文章</title>
+        <author>
+            <name>SiongSng</name>
+        </author>
+        <link href="https://SiongSng.github.io/SiongSng-Website/wang-zhan-de-di-yi-pian-wen-zhang.html"/>
+        <id>https://SiongSng.github.io/SiongSng-Website/wang-zhan-de-di-yi-pian-wen-zhang.html</id>
+
+        <updated>2021-02-28T22:41:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                    網站的第一篇文章 沒有東西啦xd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>網站的第一篇文章</p>
+<p>沒有東西啦xd</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
